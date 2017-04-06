@@ -1,0 +1,3 @@
+minimum : raspberry pi 3, sd card(at least 16GB), sd card leader(per 1 person recog) HDMI Cable, LAN Cable
+
+maximum : raspberry pi 3, sd card(at least 16GB), sd card leader, HDMI Cable, LAN Cable, Monitor, keyBoard, Mouse (per 1 person)
