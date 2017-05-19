@@ -2,7 +2,7 @@
 
 Team Leader : Sentendro(Han-Wool Ku)
 
-Team members :
+Team members : Sentendro
 
 Regular meeting :
 
